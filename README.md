@@ -24,7 +24,7 @@
    
 </div>
   
-  ![Snake animation](https://github.com/anadutraoli)
+  ![Snake animation](https://github.com/anadutraoli/anadutraoli/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
